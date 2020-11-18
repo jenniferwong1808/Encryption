@@ -28,7 +28,8 @@ function, I created the encryptString method in the encryption class. I did not 
 sucessfully obtain the expected output. In my code, basically, I used the idea of interating through the first column of the grid and used each character to get
 the others down the column.
 
-##### Reason: The use of a 2d-array or similar would be needed if a grid were to be used. However, the code would 
+##### Reason: 
+The use of a 2d-array or similar would be needed if a grid were to be used. However, the code would 
 be unnecessarily long due to adding all the elements into the 2d-array and traversing it to get the output. The runtime would be longer and inefficient.
 
 In the professional setting, the methods do not necessarily have to be static. I made it static so I can test the method easier. If I had additional time, I would have 
