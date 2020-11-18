@@ -74,15 +74,15 @@ public class Encryption {
 	public static void main(String[] args) {
 		
 		// Perform unitTests first
-        if(unitTests()) {
-            System.out.println("All unit tests passed.\n");
-        } else {
-            System.out.println("Failed test.\n");
-            return;
-        }
+        	if(unitTests()) {
+            	System.out.println("All unit tests passed.\n");
+        	} else {
+            	System.out.println("Failed test.\n");
+            	return;
+        	}
         
-        // Prints all the expected and actual outputs from unitTests
-        System.out.println("Expected: imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn sseoau");
+        	// Prints all the expected and actual outputs from unitTests
+        	System.out.println("Expected: imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn sseoau");
 		System.out.println("Actual: "+
 		encryptString("if man was meant to stay on the ground god would have given us roots")+"\n");
 		System.out.println("Expected: hae and via ecy");
