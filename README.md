@@ -39,7 +39,7 @@ created more test cases that would cover the edge cases as well. I would also ad
   I am a first-year at the University of California, San Diego pursuing Computer Science. Java is my favorite and strongest programming language. Although I have
   not used Java in a professional setting before, I am eager to learn more about how it can be used to contribute to SnapCheck. I want to grow as a software engineer
   and continually learn new things that build on my knowledge of Computer Science. I hope to not only learn from building products and services but also from the team
-  engineers and developers. In the future, I aim to use my skills give back to my community and bring greater conveniences to society.
+  of engineers and developers. In the future, I aim to use my skills to give back to my community and bring greater conveniences to society.
   
   Additonal information about my experiences and skills are included in my [resume](https://drive.google.com/file/d/1GBQ96-MmNzMW13NOuEoLYKTfZUw0vUlp/view?usp=sharing) and
   [LinkedIn profile](http://linkedin.com/in/jenniferwong1808).
