@@ -40,7 +40,7 @@ public class Encryption {
 	/**
 	 * Runs the test cases for encryptString method
 	 * 
-	 * @return true is all test cases are passed, false otherwise
+	 * @return true if all test cases are passed, false otherwise
 	 */
 	public static boolean unitTests()
 	{
