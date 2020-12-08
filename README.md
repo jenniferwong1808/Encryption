@@ -45,6 +45,7 @@ created more test cases that would cover the edge cases as well. I would also ad
   [LinkedIn profile](http://linkedin.com/in/jenniferwong1808).
   
   Courses I am currently taking: Intro to Object-Oriented Programming, Discrete Mathematics
+  
   Courses I am going to taking next semester: Basic Data Structurs & Algorithms, Computer Organization and Systems Programming, and Mathematics for Algorithms
   
   Some of my other projects include:
